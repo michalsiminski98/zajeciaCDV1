@@ -1,5 +1,5 @@
 .container {
-    background-color: yellow;
+    background-color: gray;
     border: 5px solid blue;
 }
 
@@ -10,11 +10,11 @@
 }
 
 .mainPart {
-    background-color: green;
+    background-color: lightgray;
 }
 
 .ending {
     padding-top: 50px;
     font-size: 1.5rem;
-    background-color: brown;
+    background-color: grey;
 }
